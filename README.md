@@ -1,15 +1,15 @@
 # Google-Data-Analysis-Capstone
 Capstone of Google Data Analysis Professional Certificate
 
-##Project Description
+## Project Description
 
 You are a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The director of marketing believes the company’s future success depends on maximizing the number of annual memberships. Therefore, your team wants to understand how casual riders and annual members use Cyclistic bikes
 
-##Data sources used
+## Data sources used
 
 Divvy Data - The data has been processed to remove trips that are taken by staff as they service and inspect the system; and any trips that were below 60 seconds in length (potentially false starts or users trying to re-dock a bike to ensure it was secure).
 
-##Business Task
+## Business Task
 
 How do annual members and casual riders use Cyclistic bikes differently?
 
@@ -17,7 +17,7 @@ Why would casual riders buy Cyclistic annual memberships?
 
 How can Cyclistic use digital media to influence casual riders to become members?
 
-##Summary
+## Summary
 
 Casual riders spent more time in bikes
 Popular spot is Lake Shore Dr & Monroe St
